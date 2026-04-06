@@ -1,5 +1,4 @@
-                  👩‍💻 About Me
-🎓 Student passionate about AI, ML, and Software Development
-💡 Strong interest in problem solving & competitive programming
-📈 Continuously improving coding, system design, and real-world project skills
-🌱 Currently working on projects + DSA + improving English communication
+🎓 Student passionate about Artificial Intelligence, Machine Learning, and Software Development
+💡 Strong interest in problem-solving and competitive programming
+📈 Continuously enhancing skills in coding, system design, and real-world projects
+🌱 Currently focused on building projects, mastering Data Structures & Algorithms, and improving English communication
